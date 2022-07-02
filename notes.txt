@@ -1,0 +1,5 @@
+live server:
+npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch
+
+>>>Dynamic SVG to reduce the number of svg arrow assets
+

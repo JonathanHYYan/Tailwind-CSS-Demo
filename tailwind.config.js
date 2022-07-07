@@ -13,7 +13,6 @@ module.exports = {
         "60-40": "2fr 1fr",
         "1-5": "1fr 5fr"
       },
-
     },
   },
   plugins: [],

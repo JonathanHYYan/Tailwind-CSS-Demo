@@ -9,3 +9,4 @@ UPP: #3c63ad
 
 interesting things to point out in interview:
 Implicit styling on svg's and pngs are not the same, svg has implicit block and vertical-align: middle whilst ful_logo.png does not and therefore requires additional positional css. upp_logo.png with the exact same styling had implicit vertical-alignment
+
